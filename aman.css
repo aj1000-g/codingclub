@@ -1,0 +1,42 @@
+.one{
+    position: relative;
+    height: 500px;
+    width: normal;
+    background-color: aqua;
+    margin-bottom: 20px;
+    background-image: url(https://user-images.githubusercontent.com/75173703/125692888-7c5ec438-02b4-4d03-85d2-e85de5ea633c.png);
+    background-size: contain;
+}
+#box3{
+    
+    background-color: orange;
+}
+#box1{
+    text-align: center;
+    background-color:blue;
+    margin-bottom: 50px;
+}
+.box{
+    text-align: center;
+    font-size: larger;
+    position: sticky;
+    background-color: blue;
+    color: white;
+    width: normal;
+    height: 100px;
+    top: 0;
+    
+}
+
+#box2{
+    
+    background-color: red;
+}
+#box4{
+    position: fixed;
+}
+
+#box5{
+    position: fixed;
+    bottom: 0;
+}
