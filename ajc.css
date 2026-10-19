@@ -1,0 +1,15 @@
+#one{
+    width: 500px;
+    height: 200px;
+    background-color: red;
+    position: relative;
+}
+#two{
+    position: relative;
+    top: 30px;
+    left : 30px;
+}
+#three{
+    position :absolute;
+    top : 30px;
+}
